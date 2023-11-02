@@ -17,11 +17,10 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 
-<h1>
-  Hey I am Fisseha
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
- 
-</h1>
+### Hi there 👋
+
+<!--
+**Fissehayonas27/Fissehayonas27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
